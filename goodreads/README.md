@@ -1,4 +1,4 @@
-# Use Goodreads
+# Goodreads
 
 ## Data Analysis Story
 
@@ -106,4 +106,4 @@ Engaging with the vast textual data within the titles reveals interwoven themes:
 1. Recurrent topics of **life, love, and death**, enriched with narratives that delve deeply into human experience, suggest that storytelling remains central to the dataset's corpus.
 
 ### Conclusion and Special Observations
-The analysis reveals rich insights into the dataset's structure and its literary content. While the dominance of specific authors and the English language tells a compelling story of market trends, the missed opportunities for linguistic and authorial diversity highlight areas for future improvement. By broadening the dataset’s representations, we can enhance the narratives, allowing for a more expansive literary exploration that captures the plurality of human storytelling across global languages and cultures.
+The analysis reveals rich insights into the dataset's structure and its literary content. While the dominance of specific authors and the English language tells a compelling story of market trends, the missed opportunities for linguistic and authorial diversity highlight areas for future improvement. By broadening the datasetâ€™s representations, we can enhance the narratives, allowing for a more expansive literary exploration that captures the plurality of human storytelling across global languages and cultures.
