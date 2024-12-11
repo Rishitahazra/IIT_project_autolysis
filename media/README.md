@@ -1,4 +1,4 @@
-# Use Media
+# Media
 
 ## Data Statistics
 
@@ -68,7 +68,7 @@ The dataset is free from zero values, ensuring that each entry contributes meani
 
 #### e) Other Interesting Findings
 
-Within the dataset, Tamil emerges as a notable language, revealing its prevalence alongside a substantial variety of titles — as evidenced by the unique count in the `title` column. 
+Within the dataset, Tamil emerges as a notable language, revealing its prevalence alongside a substantial variety of titles â€” as evidenced by the unique count in the `title` column. 
 
 The `by` column, however, prompts scrutiny with a noteworthy 262 null values, pointing towards potential avenues for data improvement or enhancement strategies.
 
@@ -144,7 +144,7 @@ The data exhibits temporal biases, language concentration, and categorical domin
 - **Total Rows**: 2652
 
 ### Outlier Analysis:
-1. **Overall**: 1216 outliers, representing 45.9% of values—an alarming figure pointing to potential data reliability issues.
+1. **Overall**: 1216 outliers, representing 45.9% of valuesâ€”an alarming figure pointing to potential data reliability issues.
 2. **Quality**: A mere 0.9% outliers suggests a high degree of consistency among quality ratings.
 3. **Repeatability**: Zero outliers indicate dependable repeatability measures.
 
