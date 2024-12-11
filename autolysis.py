@@ -566,41 +566,6 @@ with open(f'./{dir_name}/README.md', 'w') as file:
 
 ##:: ---------------------------$$:: End of code ::$$---------------------------------##
 
-
-
-
-
-
-
-
-
-# Ensure the correct number of command-line arguments
-if len(sys.argv) == 2:
-    dataset_path = sys.argv[1]
-    
-else:    
-    print("No data set provided")
-    sys.exit(1)
-
-if '/' in dataset_path:
-    str_csv = dataset_path.split("/")
-    list_dir_name = str_csv[-1].split(".")
-    dir_name = list_dir_name[0]
-else:
-    list_dir_name = dataset_path.split(".")
-    dir_name = list_dir_name[0]   
-
-print(dataset_path)   
-print(dir_name) 
-    
-# Get the dataset path from the command-line arguments
-    
-    
-    # # Read the CSV file
-    # data = pd.read_csv(dataset_path)
-    
-    # # Print the first few rows of the dataset
-    # print(data.head())
     
 
 
